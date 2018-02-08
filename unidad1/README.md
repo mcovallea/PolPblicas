@@ -15,7 +15,9 @@ Fundamentos conceptuales de las políticas públicas, su historia y su relación
 
 #### Lecturas: 
 
-[
+[Pierre Muller: Las políticas Públicas](unidad1/1laspolíticaspúblicaspp29-46.pdf)
+
+
 
 
 
