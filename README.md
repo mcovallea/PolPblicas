@@ -1,4 +1,4 @@
-# Asignatura Descentralización y Desarrollo Regional
+# Asignatura Políticas Públicas y Evaluación de Proyectos y Programas Sociales
 
 ## **Bienvenidos** :books::blue_heart:
 
