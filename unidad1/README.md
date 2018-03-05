@@ -17,7 +17,7 @@ Fundamentos conceptuales de las políticas públicas, su historia y su relación
 
 [Pierre Muller: Las políticas Públicas](1laspolíticaspúblicaspp29-46.pdf)
 
-[Fernando Jaime et. al.: Introducción al análisis de políticas públicas](2introducciónalanálisisdepolíticaspúblicas53-72.pdf)
+[Fernando Jaime et. al.: Introducción al análisis de políticas públicas](2introducciónalanálisisdepolíticaspúblicas53-81.pdf)
 
 [Michael Howlett, M. Ramesh & Anthony Perl: El estudio de las políticas públicas. Ciclos y subsistemas de las políticas. Capítulo 2: Abordajes teóricos](3abordajesteóricos.pdf)
 
@@ -25,7 +25,15 @@ Fundamentos conceptuales de las políticas públicas, su historia y su relación
 
 [André-Noël Roth: Las políticas públicas, formulación, implementación y evaluación](4las políticas públicas_formulaciónimplementación,evaluaciónpp29-40.pdf)  
 
+#### Presentación: 
 
+[Presentación 1](Presentación.pdf)
+
+#### Documentos de la asignatura: 
+
+[Acuerdo pedagógico](ACUERDO.pdf)
+
+[Microcurrículo](MICROCURRÍCULO.pdf) 
 
 
 
