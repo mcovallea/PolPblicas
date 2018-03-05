@@ -21,9 +21,9 @@ Fundamentos conceptuales de las políticas públicas, su historia y su relación
 
 [Michael Howlett, M. Ramesh & Anthony Perl: El estudio de las políticas públicas. Ciclos y subsistemas de las políticas. Capítulo 2: Abordajes teóricos](3abordajesteóricos.pdf)
 
-[Michael Howlett, M. Ramesh & Anthony Perl: Studying public policy. Policy cicles & Policy susbsystems. Chapter 2: Theoretical approaches](3studyingpublicpolicychapter2_theoretical approaches.pdf) 
+[Michael Howlett, M. Ramesh, Anthony Perl: Studying public policy. Policy cicles and Policy susbsystems. Chapter 2: Theoretical approaches](3studyingpublicpolicychapter2_theoretical approaches.pdf) 
 
-[André-Noël Roth: Las políticas públicas, formulación, implementación y evaluación](4las políticas públicas_formulaciónimplementación,evaluaciónpp29-40.pdf)  
+[André-Noel Roth: Las políticas públicas, formulación, implementación y evaluación](4las políticas públicas_formulaciónimplementación,evaluaciónpp29-40.pdf)  
 
 #### Presentación: 
 
