@@ -29,9 +29,20 @@ Dimensiones ideológica, económica y política de las políticas públicas y su
 
 [Boaventura de Sousa Santos & César A. Rodríguez: El derecho y la globalización desde abajo. Capítulo 2: Más allá de la gobernanza neoliberal](5elderechoalaglobalizacióndesdeabajo.pdf)
 
-#### Taller: 
+#### Talleres: 
 
 [Taller 1 - Unidad 2](Taller 1 Unidad 2.pdf)
+
+##### Ejercicio sobre políticas públicas: 
+
+- [CONPES 167](CONPES167.pdf)
+- [CONPES 173](CONPES173.pdf)
+- [CONPES 179](CONPES179.pdf)
+- [Instrucciones](INSTRUCCIONES_ANÁLISIS CRÍTICO DE POLÍTICAS PÚBLICAS.pdf)
+
+
+
+
 
 
 
