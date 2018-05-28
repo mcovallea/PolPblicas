@@ -14,7 +14,9 @@ Formulación, implementación, monitoreo y evaluación de políticas públicas.
 
 #### Lecturas: 
 
+[Jaime Roth. Introducción al análisis de políticas públicas (páginas 85 a 118)](Jaime y otros. Introducción al análisis de políticas públicas. pp. 85-118.pdf)
 
+[André Nöel Roth. Las políticas públicas, formulación, implementación, evaluación](Roth. Las políticas públicas. Formulación, implementación, evaluación. pp 41-56.pdf)
 
 
 
