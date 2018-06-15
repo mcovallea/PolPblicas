@@ -34,6 +34,10 @@ Formulación, implementación, monitoreo y evaluación de políticas públicas.
 
 **[Instrucciones para la elaboración del trabajo final](Trabajo final.pdf)**
 
+[Modelo de Plan de Acción y Seguimiento](3914_Anexo_Plan de Acción y Seguimiento (PAS).xlsx)
+
+
+
 
 
 
