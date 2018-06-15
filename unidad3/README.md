@@ -32,6 +32,10 @@ Formulación, implementación, monitoreo y evaluación de políticas públicas.
 
 
 
+**[Instrucciones para la elaboración del trabajo final](Trabajo final.pdf)**
+
+
+
 
 
 
