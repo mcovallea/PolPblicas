@@ -2,11 +2,11 @@
 
 ## **¡Bienvenidos! ¡Bienvenidas!**
 
-**Semestre 2018A	| Código de Asignatura: 110011592**
+**Semestre 2018B	| Código de Asignatura: 11011592**
 
 > Profesora: Maria Cristina Ovalle, PhD.
 >
-> Salón: 32-105| Horario: Jueves, 15:00-18:00
+> Salón: 32-205| Horario: Jueves, 15:00-18:00
 >
 > Horas presenciales: 48	|Horas de trabajo independiente: 96			
 
@@ -26,7 +26,7 @@ Cuatro tipos de actividades permitirán el abordaje de los objetivos propuestos:
 
 ## Estrategias de evaluación
 
-Por cada unidad se realizará un ejercicio de aplicación, que puede consistir en un cuestionario o un ejercicio de producción textual. El promedio de las calificaciones obtenidas en esos 3 ejercicios constituirá el 70% de la calificación final. El restante 30% estará dado por el promedio de las notas obtenidas en dos exámenes parciales escritos en los que se evaluarán de forma acumulativa los contenidos de la asignatura: uno a realizarse en la semana 8 y otro en la semana 16, este último consistente en un ejercicio práctico, bien sea de formulación, bien de evaluación de una política pública ya existente.  
+Por cada unidad se realizará un ejercicio de aplicación, que puede consistir en un cuestionario o un ejercicio de producción textual. El promedio de las calificaciones obtenidas en esos 3 ejercicios será a su vez promediado con la nota obtenida en el trabajo final.
 
 ## Contenidos
 
