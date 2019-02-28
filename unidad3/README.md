@@ -20,7 +20,7 @@ Formulación, implementación, monitoreo y evaluación de políticas públicas.
 
 #### Presentación y actividades:
 
-[Presentación](Formulación, implementación, seguimiento y evaluación.pdf)
+[Presentación](Presentación_Formulación, implementación, seguimiento y evaluación.pdf)
 
 [Guía metodológica para la formulación de Políticas Públicas](Guía metodológica para la formulación de políticas públicas.pdf)
 
