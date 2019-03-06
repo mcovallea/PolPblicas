@@ -30,6 +30,8 @@ Formulación, implementación, monitoreo y evaluación de políticas públicas.
 
 [Ejemplo de evaluación: Jóvenes en Acción](Ejemplo_evaluación Jóvenes en Acción.pdf)
 
+[Documento CONPES - Financiamiento de las IES Públicas](2018-03-23 Documento CONPES Financiamiento IES_VDiscusio_n.pdf)
+
 
 
 **[Instrucciones para la elaboración del trabajo final](Trabajo final.pdf)**
