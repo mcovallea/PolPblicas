@@ -29,11 +29,7 @@ Fundamentos conceptuales de las políticas públicas, su historia y su relación
 
 [Presentación 1](Presentación.pdf)
 
-#### Documentos de la asignatura: 
 
-[Acuerdo pedagógico](ACUERDO.pdf)
-
-[Microcurrículo](MICROCRR.pdf) 
 
 
 
