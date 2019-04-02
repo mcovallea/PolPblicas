@@ -2,11 +2,11 @@
 
 ## **¡Bienvenidos! ¡Bienvenidas!**
 
-**Semestre 2018B	| Código de Asignatura: 11011592**
+**Semestre 2019A	| Código de Asignatura: 11011592**
 
 > Profesora: Maria Cristina Ovalle, PhD.
 >
-> Salón: 32-205| Horario: Jueves, 15:00-18:00
+> Salón: 33-204| Horario: Martes, 08:00-11:00
 >
 > Horas presenciales: 48	|Horas de trabajo independiente: 96			
 
@@ -48,7 +48,10 @@ El plagio y todas las formas de fraudeacadémico serán enérgicamente rechazado
 
  La interacción dentro del aula debe estarcaracterizada por el uso respetuoso de la palabra y la expresión libre yautónoma de puntos de vista argumentados. 
 
-Se rechazan todas lasformas de discriminación, racismo, machismo y homofobia dentro del aula, asícomo los comportamientos que atenten contra la dignidad, el buen nombre o laintegridad mental o física de la comunidad educativa 
+Se rechazan todas lasformas de discriminación, racismo, machismo y homofobia dentro del aula, asícomo los comportamientos que atenten contra la dignidad, el buen nombre o laintegridad mental o física de la comunidad educativa. 
 
 
 
+**[Consultar el acuerdo pedagógico](ACUERDO.pdf)**
+
+**[Consultar el microcurrículo](MICROCpdf)** 
