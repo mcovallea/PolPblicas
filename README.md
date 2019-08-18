@@ -2,11 +2,11 @@
 
 ## **¡Bienvenidos! ¡Bienvenidas!**
 
-**Semestre 2019A	| Código de Asignatura: 11011592**
+**Semestre 2019B	| Código de Asignatura: 11011592**
 
 > Profesora: Maria Cristina Ovalle, PhD.
 >
-> Salón: 33-204| Horario: Martes, 08:00-11:00
+> Salón: 33-204| Horario: Martes, 9 am - 12 m.
 >
 > Horas presenciales: 48	|Horas de trabajo independiente: 96			
 
@@ -26,15 +26,17 @@ Cuatro tipos de actividades permitirán el abordaje de los objetivos propuestos:
 
 ## Estrategias de evaluación
 
-Por cada unidad se realizará un ejercicio de aplicación, que puede consistir en un cuestionario o un ejercicio de producción textual. El promedio de las calificaciones obtenidas en esos 3 ejercicios será a su vez promediado con la nota obtenida en el trabajo final.
+Por cada documento asignado para lectura y discusión en clase se realizará un ejercicio escrito de comprobación de lectura. La sumatoria de estas comprobaciones de lectura proporcionará el 30%
+de la nota final. Al final de cada unidad se realizará un ejercicio de aplicación, que puede consistir en un cuestionario o un ejercicio de producción textual. El promedio de las calificaciones obtenidas en esos 3 proveerá el 70% restante de la nota final.  
 
 ## Contenidos
 
 | Unidades                                 | Contenidos                               |
 | ---------------------------------------- | ---------------------------------------- |
 | [1. Fundamentos conceptuales de las políticas públicas.](unidad1/README.md) | Fundamentos conceptuales de las políticas públicas, historia y relación con la ciencia política. |
-| [2. La política en las políticas públicas.](unidad2/README.md) | Dimensiones ideológica, económica y política de las políticas públicas y su relación con el concepto de governance. |
-| [3. Formulación y evaluación de políticas públicas.](unidad3/README.md) | Formulación, implementación, monitoreo y evaluación de políticas públicas. |
+| [2.  Formulación,implementación y evaluación de políticas públicas.](unidad2/README.md) | Formulación, implementación, monitoreo y evaluación de políticas públicas. |
+| [3. Evaluación de proyectos y programas sociales](unidad3/README.md) | Enfoques, tipologías y metodologías para la evaluación de proyectos y programas sociales. |
+| [4. Discursos políticos e ideológicos](unidad4/README.md) | Dimensiones ideológica, económica y política de las políticas públicas y su relación con el concepto de governance. |
 
 ### Acuerdos para la convivencia
 
@@ -48,10 +50,7 @@ El plagio y todas las formas de fraudeacadémico serán enérgicamente rechazado
 
  La interacción dentro del aula debe estarcaracterizada por el uso respetuoso de la palabra y la expresión libre yautónoma de puntos de vista argumentados. 
 
-Se rechazan todas lasformas de discriminación, racismo, machismo y homofobia dentro del aula, asícomo los comportamientos que atenten contra la dignidad, el buen nombre o laintegridad mental o física de la comunidad educativa. 
+Se rechazan todas lasformas de discriminación, racismo, machismo y homofobia dentro del aula, asícomo los comportamientos que atenten contra la dignidad, el buen nombre o laintegridad mental o física de la comunidad educativa 
 
 
 
-**[Consultar el acuerdo pedagógico](ACUERDO.pdf)**
-
-**[Consultar el microcurrículo](MICROC.pdf)** 
