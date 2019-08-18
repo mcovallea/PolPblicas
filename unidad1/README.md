@@ -15,25 +15,11 @@ Fundamentos conceptuales de las políticas públicas, su historia y su relación
 
 #### Lecturas: 
 
-[Pierre Muller: Las políticas Públicas](1laspolíticaspúblicaspp29-46.pdf)
+[Fernando Jaime et. al.: Introducción al análisis de políticas públicas](1introducciónalanálisisdepolíticaspúblicas11-81.pdf)
 
-[Fernando Jaime et. al.: Introducción al análisis de políticas públicas](2introducciónalanálisisdepolíticaspúblicas53-81.pdf)
+[Michael Howlett, M. Ramesh, Anthony Perl: El estudio de las políticas públicas. Ciclos y subsistemas de las políticas. Capítulo 2: Abordajes teóricos](2abordajesteóricos.pdf)
 
-[Michael Howlett, M. Ramesh, Anthony Perl: El estudio de las políticas públicas. Ciclos y subsistemas de las políticas. Capítulo 2: Abordajes teóricos](3abordajesteóricos.pdf)
-
-[Michael Howlett, M. Ramesh, Anthony Perl: Studying public policy. Policy cicles and Policy susbsystems. Chapter 2: Theoretical approaches](3studyingpublicpolicy.pdf) 
-
-[André-Noel Roth: Las políticas públicas, formulación, implementación y evaluación](4polpubl.pdf)  
-
-#### Presentación: 
-
-[Presentación 1](Presentación.pdf)
-
-
-
-
-
-
+[Michael Howlett, M. Ramesh, Anthony Perl: El estudio de las políticas públicas. Ciclos y subsistemas de las políticas. Capítulo 3: El Contexto de las Políticas](3contexto.pdf)
 
 
 
