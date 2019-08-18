@@ -12,7 +12,7 @@
 
 #### Lecturas: 
 
-[Matos, R. Enfoques de evaluación de programas sociales: análisis comparativo](1enfoquesevaluac.pf)
+[Matos, R. Enfoques de evaluación de programas sociales: análisis comparativo](1enfoquesevaluac.pdf)
 
  [Valdés, M. La evaluación de proyectos sociales: definiciones y tipologías](2tipolotiasevaluac.pdf)
 
