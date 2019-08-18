@@ -17,8 +17,6 @@ Dimensiones ideológica, económica y política de las políticas públicas y su
 
 [Kevin Farnsworth: Gobernanza, negocios y política social](2gobnegypolsocial.pdf)
 
-[Patricia Kennet: Governance, the state and public policy in a global age](4governancethestateandpublicpolicyinaglobalage.pdf)
-
 [Boaventura de Sousa Santos & César A. Rodríguez: El derecho y la globalización desde abajo. Capítulo 2: Más allá de la gobernanza neoliberal](3globalizdesdeabajopp31a56.pdf)
 
 
